@@ -1,0 +1,6 @@
+# ingore all .txt files
+*.txt
+*.aux
+*.log
+*.out
+*.gz
